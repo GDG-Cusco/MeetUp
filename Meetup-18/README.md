@@ -1,6 +1,6 @@
-# Meetup-18
+# MeetUp-18
 -----
-Meetup #18
+Reunión #18
 
 ## Charlas :
 
