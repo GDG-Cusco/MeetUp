@@ -1,7 +1,7 @@
 # Meetup
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) 
 ______
-Aqui encontraras todos los meetups realizados por la comunidad GDG Cusco.
+Aquí encontraras todos los meetups realizados por la comunidad GDG Cusco.
 
 ## Listado de los Meetups
  - [Meetup 18](https://github.com/GDG-Cusco/Meettup/tree/master/Meetup-18)
