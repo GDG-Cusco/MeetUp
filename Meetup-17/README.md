@@ -1,6 +1,6 @@
-# Meetup-17
+# MeetUp-17
 -----
-Meetup #17
+Reunión #17
 
 ## Charlas :
 
