@@ -14,7 +14,7 @@ Slide [URL](https://speakerdeck.com/thian/introduccion-a-vue-dot-js)
 Organizadores del meetup:
 
 - [Fahed Hermoza Salcedo](https://github.com/FahedHermoza)
-- Jack Steven Conde Sallo
+- [Jack Steven Conde Sallo](https://www.facebook.com/jhacksteven.condesallo)
 
 ## Sponsors
  - [GenUp Coworking](https://www.facebook.com/coworking.cusco/)
