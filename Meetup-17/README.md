@@ -4,7 +4,7 @@ Reunión #17
 
 ## Charlas :
 
-- **Introducción a Vue.js y Vuex**  por [Cristhian Santa Cruz Carrion](https://github.com/dgafz) 
+- **Introducción a Vue.js y Vuex**  por [Cristhian Santa Cruz Carrion](https://www.facebook.com/cristhian.santacruzcarrion) 
 
 Slide [URL](https://speakerdeck.com/thian/introduccion-a-vue-dot-js)
 
