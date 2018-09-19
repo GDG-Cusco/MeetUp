@@ -13,7 +13,7 @@ Slide [URL](https://speakerdeck.com/jhonriraito/metodologias-agiles-soportada-po
 
 Organizadores del meetup:
 
-- [Fahed Hermoza Salcedo](https://github.com/FahedHermoza)
+- [Fahed Hermoza Salcedo](https://www.facebook.com/fahed19)
 - [Jack Steven Conde Sallo](https://www.facebook.com/jhacksteven.condesallo)
 
 ## Sponsors
