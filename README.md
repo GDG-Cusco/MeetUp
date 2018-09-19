@@ -4,6 +4,7 @@ ______
 Aquí encontraras todos las reuniones realizadas por la comunidad GDG Cusco.
 
 ## Listado de las Reuniones
+ - [Meet up 19](https://github.com/GDG-Cusco/MeetUp/tree/master/Meetup-19)
  - [Meet up 18](https://github.com/GDG-Cusco/Meettup/tree/master/Meetup-18)
  - [Meet up 17](https://github.com/GDG-Cusco/Meettup/tree/master/Meetup-17)
 
