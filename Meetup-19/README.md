@@ -7,6 +7,7 @@ Reunión #19
 - **CMS Optimizado para SEO - Arquitectura SaaS**  por [Juan Huamani Mendoza Eracleo ](https://web.facebook.com/erajuan) 
 
 Slide : [URL](https://speakerdeck.com/erajuan/cms-optimizado-para-seo-arquitectura-saas)
+
 Repo : [Código](https://gitlab.com/pymes.com.pe)
 
 ## Organización 
