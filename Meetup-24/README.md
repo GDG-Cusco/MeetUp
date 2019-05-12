@@ -11,8 +11,6 @@ Demo  : [GitHub](http://bit.ly/2VAY5qu)
 
 - **Serveless con Cloud Functions!n**  por[ Mítzuko Davis](https://www.facebook.com/mitzukodavis) 
 
-Slide : [URL]()
-
 ## Organización 
 [GDG Cusco](https://github.com/GDG-Cusco)
 
