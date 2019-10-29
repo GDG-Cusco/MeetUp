@@ -1,14 +1,13 @@
 # DevFest Cusco 2019
-![70954277_2462447617123770_6303464784394190848_n](https://user-images.githubusercontent.com/8326973/67768121-da9a8280-fa1f-11e9-8b56-741e462e76be.png)
 -----
 El festival de programación y desarrollo más grande de Cusco, tuvimos la participación de speakers internacionales y nacionales de Google, IBM, UNI, PUCP entre otros más, realizado el 19 y 20 de octubre en el Paraninfo Universitario UAC.
 
-350+ Asistentes, 2+ Workshops, 10+ Charlas, 10+ Speakers. Te dejamos una interesante lectura en medium sobre lo que fue el evento ["Habemus DevFest Cusco 19"](https://medium.com/@jeffersonquispep/habemus-devfest19-cusco-3010f7c6c773).
-
-Publico en general, expositores y organización del festival DevFest Cusco 2019 realizado por la comunidad GDG Cusco. 
-![31c566ff-f288-406d-a8e2-16a6a3338c88](https://user-images.githubusercontent.com/8326973/67768324-4977db80-fa20-11e9-85ac-7954a229c297.jpeg)
+Evento que conto con +350 Asistentes, +2 Workshops, +10 Charlas, +10 Speakers. Te dejamos una interesante lectura en medium sobre lo que fue el evento ["Habemus DevFest Cusco 19"](https://medium.com/@jeffersonquispep/habemus-devfest19-cusco-3010f7c6c773).
 
 [Mas información](https://www.facebook.com/967415219957038/photos/a.975551702476723/2669994886365721/?type=3&theater) de los DevFest realizados el fin de semana del 18, 19 y 20 de Octubre del 2019 en Oriente Medio, África y América Latina.
+
+La siguiente imagen muestra al público asistente, expositores y organización del festival DevFest Cusco 2019 realizado por la comunidad GDG Cusco. 
+![ic_devfest_smal](https://user-images.githubusercontent.com/8326973/67813921-c337b580-fa70-11e9-8ab1-f874e579c02f.png)
 
 ## Charlas
 Sábado 19 de Octubre - Mañana
