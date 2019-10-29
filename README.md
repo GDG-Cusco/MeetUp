@@ -14,7 +14,7 @@ Aquí encontraras todos las reuniones y festivales realizadas por la comunidad G
  - [Meet up 17](https://github.com/GDG-Cusco/Meettup/tree/master/Meetup-17)
 
 ## Listado de Festivales
- - [DevFest Cusco 2019](https://github.com/GDG-Cusco/MeetUp/tree/master/Devfest-cusco-2019)
+ - [DevFest Cusco 2019](https://github.com/FahedHermoza/MeetUp/tree/master/Devfest-cusco-2019)
  
 ## Mas información
 Estos registros se realizan desde Julio del 2018. </br>
