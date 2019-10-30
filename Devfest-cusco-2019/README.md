@@ -1,4 +1,5 @@
 # DevFest Cusco 2019
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-sharks.svg)](https://forthebadge.com)
 -----
 El festival de programación y desarrollo más grande de Cusco, tuvimos la participación de speakers internacionales y nacionales de Google, IBM, UNI, PUCP entre otros más, realizado el 19 y 20 de octubre en el Paraninfo Universitario UAC.
 
@@ -10,7 +11,7 @@ La siguiente imagen muestra al público asistente, expositores y organización d
 ![ic_devfest_smal](https://user-images.githubusercontent.com/8326973/67813921-c337b580-fa70-11e9-8ab1-f874e579c02f.png)
 
 ## Charlas
-Sábado 19 de Octubre - Mañana
+### Sábado 19 de Octubre - Mañana
 - **Desarrollando machine learning con TensorFlow**  por Juan Ñahui Pariona.
 
     - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2497409363627595/?type=3&theater)
@@ -45,7 +46,7 @@ Sábado 19 de Octubre - Mañana
     - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2508868292481702/?type=3&theater)
     - Slide [URL]()
 
-Sábado 19 de Octubre - Tarde
+### Sábado 19 de Octubre - Tarde
 - **Kotlin y GCP**  por Milton Yarleque.
 
     - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2499087526793112/?type=3&theater)
@@ -67,7 +68,7 @@ Sábado 19 de Octubre - Tarde
 - **Salvando vidas con Flutter**  por Andres chavez crisostomo.
 
     - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2499869303381601/?type=3&theater)
-    - Slide [URL]()
+    - Slide [URL](https://docs.google.com/presentation/d/1_k9wxZ5d0XIIB4iq2iX4SF_SnqILeQ5TbTRNpHKfQFc/edit?fbclid=IwAR3qiBLLOOj5BzQauwV9UP9hAA_w4sdBSqdokUmKeybgUQZ62oG3L7UnCo0#slide=id.g7085b8d383_0_0)
     
 - **Por que usar Charts y Flutter**  por Pierre Alexis Guillen Uribe.
 
@@ -82,7 +83,7 @@ Sábado 19 de Octubre - Tarde
 - **Android Apps without XML (Jetpack Compose)**  por Oscar Sequeiros Serrano.
 
     - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2500961823272349/?type=3&theater)
-    - Slide [URL]()
+    - Slide [URL](https://docs.google.com/presentation/d/1qHSqNudV_TtLY-pMCO_lPyQDyG_0lYHEEgQqPeZ2ofI/edit#slide=id.gc6f9544c1_0_0)
 
 ## Agenda Domingo 20 de Octubre - Mañana
 
