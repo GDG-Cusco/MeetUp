@@ -85,7 +85,21 @@ La siguiente imagen muestra al público asistente, expositores y organización d
     - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2500961823272349/?type=3&theater)
     - Slide [URL](https://docs.google.com/presentation/d/1qHSqNudV_TtLY-pMCO_lPyQDyG_0lYHEEgQqPeZ2ofI/edit#slide=id.gc6f9544c1_0_0)
 
-## Agenda Domingo 20 de Octubre - Mañana
+### Domingo 20 de Octubre - Mañana
+- **Intro a Flutter**  por Frank Andre Moreno Vera.
+
+    - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2495156103852921/?type=3&theater)
+    - Taller práctico.
+
+- **Desarrollando Machine Learning con TensorFlow de Google**  por Juan Ñahui Pariona.
+
+    - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2500961823272349/?type=3&theater)
+    - Taller práctico.
+
+- **Migrando Apps Android de Java a Kotlin**  por Fahed Hermoza Salcedo.
+
+    - Sobre el expositor [URL](https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2505608196141045/?type=3&theater)
+    - Taller práctico.
 
 ## Organización 
 [GDG Cusco](https://github.com/GDG-Cusco)
